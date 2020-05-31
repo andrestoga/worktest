@@ -1,2 +1,4 @@
+# Local backend tasks database
 challenge_3/backend/tasks.db
+# Python bytecodes
 challenge_3/backend/__pycache__/
