@@ -8,11 +8,11 @@ My initial thoughts in solving this problem is to use the circle parametric equa
 
 The following three images describe the calculations I come up with the equation to calculate the theta angle.
 
-![Image 1](https://imgur.com/8sC0Ilr)
+![Image 1](images/Note22_1.png)
 
-![Image 2](https://imgur.com/aZEyTNg)
+![Image 2](images/Note22_2.png)
 
-![Image 3](https://imgur.com/WxCkDXD)
+![Image 3](images/Note22_3.png)
 
 ## Installation
 

@@ -47,11 +47,11 @@ I'm providing two images of two running tests I did.
 
 The first image is without using the json file provided but instead a series of `x` and `y` coordinates for the circunference of a circle with added noisy and three outliers injected:
 
-![Without the json file](https://imgur.com/lc7oypj)
+![Without the json file](images/rogo_2_figure_1.png)
 
 The following image is with using the json file provided:
 
-![With the json file](https://imgur.com/xqEIro3)
+![With the json file](images/rogo_2_figure_2.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
