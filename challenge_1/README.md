@@ -8,11 +8,11 @@ My initial thoughts in solving this problem is to use the circle parametric equa
 
 The following three images describe the calculations I come up with the equation to calculate the theta angle.
 
-Image 1
+![Image 1](https://imgur.com/8sC0Ilr)
 
-Image 2
+![Image 2](https://imgur.com/aZEyTNg)
 
-Image 3
+![Image 3](https://imgur.com/WxCkDXD)
 
 ## Installation
 
@@ -27,11 +27,16 @@ pip install math
 
 ## Usage
 
+Move to the challenge 1 directory.
 ```bash
 cd ~/worktest/challenge_1
-chmod +x linear_sensor_to_steering_angle.py
-python linear_sensor_to_steering_angle.py 4
 ```
+
+Run the script in the following way:
+```bash
+python linear_sensor_to_steering_angle.py x
+```
+where 'x' is the measurement of the piston in inches.
 
 ## Details about the implementation
 
