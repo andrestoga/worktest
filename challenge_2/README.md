@@ -41,5 +41,17 @@ python preprocess_coordinates.py region.json
 - If not json file provided, generates points of a circle with specified radius with noise for the 'x' and 'y' coordinates. Also, injects a number of specified outliers to the data.
 - Uses the savgol_filter from scipy.signal.
 
+## Results
+
+I'm providing two images of two running tests I did.
+
+The first image is without using the json file provided but instead a series of `x` and `y` coordinates for the circunference of a circle with added noisy and three outliers injected:
+
+![Without the json file](https://imgur.com/lc7oypj)
+
+The following image is with using the json file provided:
+
+![With the json file](https://imgur.com/xqEIro3)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
