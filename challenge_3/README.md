@@ -65,5 +65,11 @@ The backend is using the Python/Flask stack. I'm following the MVC -- Model View
 
 For the frontend, I'm using a sample ToDo App from [https://github.com/kabirbaidhya/react-todo-app.git] and modified to fit the basic requeriments for challenge number 3.
 
+## Short summary of the status of the app
+
+The backend stack of the app is fully functional, i.e., you can add tasks, delete tasks, mark tasks as completed. I tested this functionality by using the python package 'requests' to consume APIs with Python.
+
+For the frontend stack, I haven't tested it yet. I did the necessary changes in the `todo.js` file where you use the REST methods (GET, POST, PUT, DELETE) to make use of the API in the backend stack. Another thing that I'm missing is to deploy the backend and the frontend on a server. That way, one would be able to access the frontend on any device with a web browser.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
